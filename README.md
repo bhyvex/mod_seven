@@ -31,3 +31,9 @@ Files:
 
 + mod_seven - Manual: mod_seven Manual in Portuguese;
 + scenario_experiments: One of the many used scenario for experiments;
++ apache.sh: shell script for monitoring Apache´s CPU and memory consumption;
++ exec-sleep.sh: sheel script model for DoS attack;
++ exec-sleep_slowloris: sheel script for Slowloris DoS attack;
++ exec-sleep_slowbodies: sheel script for Slowbodies/HTTP POST DoS attack;
++ exec-sleep_slowread: sheel script for Slowread DoS attack;
++ ressurected_slowloris: sheel script for a novel DoS attack called ressurected slowloris;
